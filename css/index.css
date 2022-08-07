@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.fix-size{
+    width: 100px;
+    height: 100px;
+}
+
+.container{
+    width: 80vw;
+    height: 90vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.bgtheme{
+    background-image: url("/game/10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    background-image: url("/game/1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+}
